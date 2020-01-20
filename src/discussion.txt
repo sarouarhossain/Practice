@@ -1,0 +1,45 @@
+Java
+-----------
+Sun-MicroSystem
+|
+Oracle
+
+Inheritance
+-------------
+
+Parent Class/ Base class / Super Class
+Child Class / Sub Class / Derived Class / Extended Class
+
+Object
+
+public class Parent {
+}
+
+public class Child extends Parent {
+}
+
+
+Bicycle
+-> gear, cadence, speed
+
+MountainBike
+-> seatHeight
+
+-------------------
+this->
+-------------------
+-------------------
+new ->
+-------------------
+-------------------
+protected ->
+-------------------
+-------------------
+super ->
+--------------------
+-------------------
+constructor ->
+--------------------
+
+
+
