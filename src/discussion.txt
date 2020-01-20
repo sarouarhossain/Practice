@@ -25,21 +25,26 @@ Bicycle
 MountainBike
 -> seatHeight
 
+
+TODO
 -------------------
 this->
--------------------
--------------------
 new ->
--------------------
--------------------
 protected ->
--------------------
--------------------
 super ->
---------------------
--------------------
 constructor ->
---------------------
+
+
+TODO
+-----------
+git clone,
+git add,
+git commit,
+git push,
+git pull,
+git branch,
+git merge,
+branch conflict
 
 
 
