@@ -38,13 +38,14 @@ constructor ->
 TODO
 -----------
 git clone -> remote repository theke PC te repository ta download kore/clone kore.
-git add ->
-git commit ->
-git push ->
+git add -> clear
+git commit -> clear
+git push -> clear
 git pull ->
 git branch ->
 git merge ->
 branch conflict ->
+git commit revert ->
 
 
 
