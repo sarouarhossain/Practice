@@ -30,21 +30,21 @@ TODO
 -------------------
 this->
 new ->
-protected ->
-super ->
+protected -> ক্লিয়ার না
+super -> বুঝতে পারি নাই
 constructor ->
 
 
 TODO
 -----------
-git clone,
-git add,
-git commit,
-git push,
-git pull,
-git branch,
-git merge,
-branch conflict
+git clone ->
+git add ->
+git commit ->
+git push ->
+git pull ->
+git branch ->
+git merge ->
+branch conflict ->
 
 
 
