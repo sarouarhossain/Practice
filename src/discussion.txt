@@ -38,15 +38,39 @@ constructor ->
 TODO
 -----------
 git clone -> remote repository theke PC te repository ta download kore/clone kore.
+git clone "URL"
+
 git add -> clear
+git add . [ja ja change ase sob add hobe]
+git add filename
+
 git commit -> clear
+git commit -m "message dite hobe"
+
 git push -> clear
-git pull ->
-git branch ->
+git push origin branch_name
+
+git pull -> clear
+git pull origin branch_name
+git pull [repository te ja ase sob pull hoye chole asbe]
+
+git branch -> clear
+git branch [pc te joto branch ase sob list dekhabe]
+
+git checkout -> clear
+git checkout -b branch_name [new branch create hobe]
+git checkout branch_name [branch switch]
+
+git status -> ai muhurte git r obostha
+git status
+
+git log -> commit r history
+git log
+
 git merge ->
 branch conflict ->
 git commit revert ->
-
+git stash ->
 ----------------------------------
 
 
