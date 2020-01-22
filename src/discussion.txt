@@ -37,7 +37,7 @@ constructor ->
 
 TODO
 -----------
-git clone ->
+git clone -> remote repository theke PC te repository ta download kore/clone kore.
 git add ->
 git commit ->
 git push ->
