@@ -7,6 +7,7 @@ public class Bicycle {
     public int speed;
 
     public Bicycle(int startCadence, int startGear, int startSpeed) {
+        System.out.println("I came to Bicycle class");
         this.cadence = startCadence;
         this.gear = startGear;
         this.speed = startSpeed;
@@ -20,12 +21,12 @@ public class Bicycle {
         this.gear = newGearValue;
     }
 
-    public void seedUp(int increament){this.speed = increament}
+    public void speedUp(int increament){this.speed = increament;}
 
     public void applyBreak(){this.speed--;}
 
     public String toString(){
-        String result = "Cadence: "+this.cadence + " Gear: "+this.gear + " Speed: "+this.speed;
+        String result = "object situation: \nCadence: "+this.cadence + "\nGear: "+this.gear + "\nSpeed: "+this.speed;
         return result;
     }
 }
