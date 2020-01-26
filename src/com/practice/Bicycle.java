@@ -6,6 +6,13 @@ public class Bicycle {
     public int gear;
     public int speed;
 
+    // function overloading -> constructor overloading
+    public Bicycle(){
+        this.cadence = 0;
+        this.gear = 0;
+        this.speed = 0;
+    }
+
     public Bicycle(int startCadence, int startGear, int startSpeed) {
         System.out.println("I came to Bicycle class");
         this.cadence = startCadence;

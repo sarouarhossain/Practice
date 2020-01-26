@@ -21,4 +21,21 @@ public class MountainBike extends Bicycle{
     public void setSeatHeight(int seatHeight){
         this.seatHeight = seatHeight;
     }
+
+    public void setSeatHeight(){
+
+    }
+
+    public void setSeatHeight(int x,int y){
+
+    }
+
+    public void setSeatHeight(int x,String y){
+
+    }
+
+    // method overloading e parameters judge hobe, return judge hobe na
+    public int setSeatHeight(int x, float y){
+        return 0;
+    }
 }

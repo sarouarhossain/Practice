@@ -18,21 +18,31 @@ public class Main {
 //
 //        System.out.println(bicycle.toString());
 
-        MountainBike mountainBike = new MountainBike(0,0,0,4);
+//        MountainBike mountainBike = new MountainBike(0,0,0,4);
+//
+//        // java.lang.System
+//        System.out.println(mountainBike.toString());
+//
+//        mountainBike.setSeatHeight(6);
+//        mountainBike.setSeatHeight();
+//        mountainBike.setCadence(20);
+//        mountainBike.setGear(3);
+//        mountainBike.speedUp(25);
+//
+//        System.out.println(mountainBike.toString());
+//
+//        mountainBike.applyBreak();
+//
+//        System.out.println(mountainBike.toString());
 
-        // java.lang.System
-        System.out.println(mountainBike.toString());
+        MathTest mathTest = new MathTest();
+        int x = mathTest.add(3,4);
+        int y = mathTest.add(5,6,7);
+        int z = mathTest.add(1,2,3,4);
 
-        mountainBike.setSeatHeight(6);
-        mountainBike.setCadence(20);
-        mountainBike.setGear(3);
-        mountainBike.speedUp(25);
+        System.out.println("x: "+x+", y: "+y+ ", z: "+z);
 
-        System.out.println(mountainBike.toString());
 
-        mountainBike.applyBreak();
-
-        System.out.println(mountainBike.toString());
 
     }
 }

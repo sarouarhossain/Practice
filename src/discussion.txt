@@ -96,6 +96,9 @@ method overloading ->
 abstract method ->
 abstract class ->
 
+
+interface ->
+
 ---------------
 Object -> 10
 library class -> 3790 * 10 = 37900

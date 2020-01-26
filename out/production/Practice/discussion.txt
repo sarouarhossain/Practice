@@ -75,3 +75,30 @@ git stash ->
 
 
 
+Java
+----------------------------------
+Class ->
+Object ->
+new ->
+this ->
+access modifier ->
+public ->
+private ->
+protected ->
+default ->
+constructor ->
+this ->
+inheritance ->
+super ->
+method override ->
+
+method overloading -> multiple method r same name, but parameters different
+
+abstract method ->
+abstract class ->
+interface ->
+
+---------------
+Object -> 10
+library class -> 3790 * 10 = 37900
+---------------
