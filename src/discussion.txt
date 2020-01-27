@@ -77,19 +77,41 @@ git stash ->
 
 Java
 ----------------------------------
-Class ->
-Object ->
-new ->
-this ->
-access modifier ->
-public ->
-private ->
-protected ->
-default ->
-constructor ->
-this ->
-inheritance ->
-super ->
+Class -> A class in the context of java are tamplates  that are used to create objects and to define object data types and method.
+
+Object -> A java object is a combination of data and procedures orking in the available data.An object has a state and behavior.The        states of an object is stored in fields ,while methods dispaly the objects behavior.Objects are cretaed from templates known as classes.
+
+new -> The java new keyword is used to create an instance of the class.In other words,it instantiates a class by allocating memory for a new object and returning a reference to that memory.
+
+this -> keyword this is a reference variable in java that refers  to the current object.
+        1.it can be used to refer instance variable of current class.
+        2.it can be used to invoke or initiate current class constructor.
+        3.it can be passed as an argument in the constructor call.
+        4.it can be used to return the current class instance.
+        
+access modifier -> A  java access modifier specifies which classes can access a given class and its fields constructors and methods.Constructors and methods can have one of four different java access modifiers:
+     1.private
+     2.default
+     3.protected
+     4.public
+     
+public ->The java access modifier public means that all code can access the class,field,constructor or method,regardless of where the accessing code is located.
+
+private -> The methods or data members declared as private are accessible only within the class in whice they are declared.Any other class of same package will not be able to access these members.
+
+protected -> The access level of a protected modifier is within the package and outside the package through child class.If you do not make the child class,it cannot be accesssed from outside the package.
+
+default -> Default access modifier means we do not  explicitly  declare an access modifier for a class,field,method etc.
+
+constructor -> Constructor is an used to create an object and initialize the state of an object.it same as class name and it has no return type.Types of constructor:
+       1.default constructor.
+       2.no-arg constructor
+       3.parameterized constructor
+
+inheritance ->Inheritance is a machanism in which one class acquires the property of another class.With inheritance,we can reuse the fields and methods of the existing class.Hence,inheritance facilities reusability and is an important concept of OOPs.
+
+super -> Super is a keyword.It is used inside a sub class method definition to call a method defined in the super class.private method of the super class cannot be called.Only public and protected methods can be called by the super keywords.
+
 method override ->
 
 method overloading ->
