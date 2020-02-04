@@ -41,8 +41,5 @@ public class Main {
         int z = mathTest.add(1,2,3,4);
 
         System.out.println("x: "+x+", y: "+y+ ", z: "+z);
-
-
-
     }
 }

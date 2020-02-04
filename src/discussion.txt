@@ -91,11 +91,12 @@ this ->
 inheritance ->
 super ->
 method override ->
-
 method overloading ->
 abstract method ->
 abstract class ->
-
+object cloning ->
+this() ->
+constructor chaining -> super(), this()
 
 interface ->
 
